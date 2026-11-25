@@ -7,11 +7,11 @@ Welcome to my GitHub profile!
 I'm an Electronics and Telecommunication Engineering graduate with a strong interest in Data Analytics. I have completed Data Analytics training at Yess Infotech, Pune.
 
 ## About Me
-🎓 B.E. in Electronics and Telecommunication Engineering
-📊 Interested in Data Analytics and Business Intelligence
-📚 Learning and improving my Python skills
-🔍 Interested in data cleaning, data analysis and visualization
-🎯 Looking for entry-level Data Analyst opportunities
+B.E. in Electronics and Telecommunication Engineering.
+Interested in Data Analytics and Business Intelligence.
+Learning and improving my Python skills.
+Interested in data cleaning, data analysis and visualization.
+Looking for entry-level Data Analyst opportunities.
 
 ## Technical Skills
 - Microsoft Excel
