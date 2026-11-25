@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**anushrishelke/anushrishelke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Anushri Shelke 👋
+Aspiring Data Analyst | Engineering Graduate
+Welcome to my GitHub profile!
+I'm an Electronics and Telecommunication Engineering graduate with a strong interest in Data Analytics. I have completed Data Analytics training at Yess Infotech, Pune.
+👩‍💻 About Me
+🎓 B.E. in Electronics and Telecommunication Engineering
+📊 Interested in Data Analytics and Business Intelligence
+📚 Learning and improving my Python skills
+🔍 Interested in data cleaning, data analysis and visualization
+🎯 Looking for entry-level Data Analyst opportunities
+🛠️ Technical Skills
+Microsoft Excel
+SQL
+Power BI
+Tableau
+Python (Basics)
+📂 Projects
+Retail Sales Data Analysis – Excel
+Credit Card Transaction Analysis– Power BI
+📫 Connect With Me
+LinkedIn: [www.linkedin.com/in/anushri-shelke-a6450a34b]
+Email: [anushrishelke1@gmail.com]
+Thank you for visiting my profile
